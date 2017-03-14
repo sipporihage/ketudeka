@@ -4,6 +4,7 @@
 
 
 :smile:
+<<<<<<< HEAD
 
 
 Sample Markdown Cheat Sheet
@@ -303,3 +304,5 @@ This plugin and this sample file is proudly brought to you by the [revolunet tea
  [gfm]: https://help.github.com/articles/github-flavored-markdown/
  [emoji]: http://www.emoji-cheat-sheet.com/
 
+=======
+>>>>>>> 3004c2a9724a6b43cfca2f0329490f9ddce51d88
